@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.size{
+  font-size:1em;
+}
+.boxborder{
+  border-right: black 2px;
+}
+@media (prefers-reduced-motion : no-preference){
+  .size{
+    padding: none;
+  }
+}
+
+
